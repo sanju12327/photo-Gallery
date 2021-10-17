@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+}
+
+#main {
+    height:600;
+     width: 1900px;
+}
+
+
+#img1 {
+   height: 400px;
+    width: 400px;
+}
+
+#img2 {
+    height: 400px;
+    width: 400px;
+}
+
+#img3 {
+    height: 400px;
+    width: 400px;
+}
+
+#img4 {
+    height: 400px;
+    width: 400px;
+}
+
+#img5 {
+    height: 400px;
+    width: 400px;
+}
+
+#img6 {
+    height: 400px;
+    width: 400px;
+}
+
+#img7 {
+    height: 400px;
+    width: 400px;
+}
+
+#img8 {
+    height: 400px;
+    width: 400px;
+}
+
+.carousel-inner
+{
+    height: 500px;
+    width: 600px;
+}
